@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!",
+        "title": "Unlock Your Adventure with Our Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Adventure with Our Car Rentals",
+  "subtitle": "Drive in comfort and style with our top-notch selection of rental cars. Your journey starts here—let's hit the road!"
+}
